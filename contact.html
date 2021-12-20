@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact us</title>
+     <!-- font awesome cdn link  -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+     <!-- custom css file link  -->
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!----------  header  -------->
+ <header>
+    <a href="#" class="logo"></i>Melvin Sunny George</a>
+
+    <nav class="navbar">
+        <a href="index.html"><i class="fas fa-home"></i><span>Home</span></a>
+        <a href="about.html"><i class="fas fa-user"></i> <span>About</span></a>
+        <a href="portifolio.html"><i class="fas fa-briefcase"></i> <span>Portfolio</span></a>
+        <a href="service.html"><i class="fas fa-globe"></i> <span>Service</span></a>
+        <a href="gallery.html"><i class="fas fa-images"></i> <span>Gallery</span></a>
+        <a class="active" href="contact.html"> <i class="fas fa-address-book"></i> <span>Contact</span></a>
+    </nav>
+</header>
+
+
+<!----------  contact section   -------->
+
+<section class="contact">
+    <h1 class="heading"> contact me </h1>
+    <form name="google-sheet">
+            <div id="formalert"></div>
+
+            <div class="inputBox">
+                <input type="text" id="name" name="name" placeholder="your name" required>
+                <input type="tel"  id="phonenumber" name="phonenumber" placeholder="Phone number">
+            </div>
+            <div class="inputBox">
+                <input type="email" id="email" name="email" placeholder=" email id" required>
+                <input type="text"  id="subject" name="subject" placeholder="subject">
+            </div>
+            <textarea id="message" name="message" placeholder="How can i help you?" id="" cols="30" rows="10"></textarea>
+            <input type="submit" value="send message" class="btn">
+            <input type="reset" value="reset"  class="btn">
+    
+    </form>
+</section>
+
+
+</section>
+<footer>
+    <p>©2021 melvin sunny george</p>
+</footer>
+
+      
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbyN-IiCaGaZJc1rn5qx8pIEu8CzAXGha41REzzXwakX0LPhaPzYIUDjmJIIvM0w8G7sug/exec'
+        const form = document.forms['google-sheet']
+      
+        form.addEventListener('submit', e => {
+          e.preventDefault()
+          fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+            .then(response => $("#formalert").html("<div class='alert alert-success'>message sent sucessfully.</div>"))
+            
+
+            .catch(error =>  $("#formalert").html("<div class='alert alert-danger'>message not sent.</div>"))
+        })
+      </script>
+    
+</body>
+</html>

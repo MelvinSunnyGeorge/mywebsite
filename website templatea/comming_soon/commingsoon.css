@@ -1,0 +1,80 @@
+*{
+	margin: o;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman"
+}
+.container{
+	width: 100vw;
+	height: 100vh;
+	background: linear-gradient(#b24592, #f15f79);
+}
+.logo{
+	padding: 40px ;
+	cursor: pointer; 
+	font-size: x-large;
+	font-weight: bolder;
+	color: black; 
+}
+.content{
+	top: 30%;
+	position: absolute;
+	transform: translate(8%);
+	color: black;
+}
+.content p{
+	font-size: 24px;
+}
+.content h1{
+	font-size: 64px;
+	font-weight: 100;
+	margin-top: -5px;
+}
+.content h1 span{
+	color: rgb(214, 3, 3);
+}
+.content button{
+	background: transparent;
+	border: 2px solid rgb(214, 3, 3);
+	outline: none;
+	padding: 12px 25px;
+	font-size: 20px;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
+.content button :hover{
+	background: rgb(238, 36, 0);;
+	color: #fff;
+}
+.launchingtime{
+	margin-top: -60px;
+	display: flex;
+}
+.launchingtime div{
+	 flex-basis: 100px;
+}
+.launchingtime p{
+	font-size: 40px;
+	margin-bottom: 0;
+}
+.roket{
+	width: 250px;
+	position: absolute;
+	right: 10%;
+	bottom: o;
+	animation: roket 4s linear infinite;
+}
+@keyframes roket{
+	0%{
+		bottom: 0;
+		opacity: 0;
+	}
+	100%{
+		bottom: 105%;
+		opacity: 1;
+	}
+}
+
+
