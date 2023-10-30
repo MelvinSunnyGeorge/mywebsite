@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/issues</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/pulls</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/projects?query=is%3Aopen</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/security</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/releases</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/labels</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/compare</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/caches</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/runs/4361888225</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/runs/4361864166</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/labels?sort=name-asc</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/labels?sort=name-desc</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/labels?sort=count-desc</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/labels?sort=count-asc</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/labels/bug</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/labels/documentation</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/labels/duplicate</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/labels/enhancement</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/labels/good%20first%20issue</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/labels/help%20wanted</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/labels/invalid</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/labels/question</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/labels/wontfix</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?state=open</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?state=closed</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/runs/4361888225/job/11843945822</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/runs/4361888225/job/11843954210</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/runs/4361888225/job/11843954309</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/runs/4361888225/usage</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/commit/39bec9271adc2db59ef9475c9d6f5e49881a016f</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/runs/4361864166/job/11843884936</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/runs/4361864166/job/11843892878</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/runs/4361864166/job/11843892987</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/actions/runs/4361864166/usage</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/commit/20401a853a466163200f18d6f197f28aa704e180</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/commit/4ab7b69e76a67a19451651d7f3a713228f6bfa2a</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/commit/9caf6989d411cb0c76ea7df620b0140fb6ee4892</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/MelvinSunnyGeorge/mywebsite/commit/ff388e22b3c1bc407bfc8b5e995426927066a3f1</loc>
+  <lastmod>2023-10-30T10:52:16+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>
